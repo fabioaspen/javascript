@@ -64,4 +64,3 @@ function adicionar_dados(event){
 }
 //rotina principal
 botao_adicionar.addEventListener('click', adicionar_dados);
-çl
